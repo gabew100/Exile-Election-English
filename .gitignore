@@ -1,0 +1,5 @@
+*.zip
+release_notes_*.md
+stage_public.ps1
+Thumbs.db
+desktop.ini
