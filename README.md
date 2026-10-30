@@ -3,7 +3,7 @@
 An unofficial English fan translation of **追放選挙 (Exile Election)** for the
 PlayStation Vita (title ID `PCSG01023`).
 
-**Current version: v0.9.0 (beta).** The whole story is translated and has been
+**Current version: v0.9.1 (beta).** The whole story is translated and has been
 tested in an emulator, but nobody has finished a full playthrough on a real
 Vita yet. Expect some rough edges, and please report them.
 
@@ -14,7 +14,7 @@ it.
 
 ## Download
 
-Get `Exile_Election_English_v0.9.0.zip` from the
+Get `Exile_Election_English_v0.9.1.zip` from the
 [Releases page](https://github.com/gabew100/Exile-Election-English/releases).
 
 ## What's translated
@@ -22,10 +22,11 @@ Get `Exile_Election_English_v0.9.0.zip` from the
 - All story text: 38,708 lines across 255 scenes
 - Menus, settings, and scene titles
 - The in-game controls and help screens
+- The election countdown, Election Day, and Debate Start picture cards
 
 ## Still in Japanese
 
-- Text drawn into some background and event pictures
+- Text drawn into other background and event pictures
 - The two movies
 - The title logo (kept on purpose)
 - The home-screen (LiveArea) bubble and trophies
@@ -46,6 +47,9 @@ Get `Exile_Election_English_v0.9.0.zip` from the
    over USB or FTP), so the files end up in `ux0:rePatch/PCSG01023/`. If you
    already have a `rePatch` folder, merge them.
 3. Start the game.
+
+**Updating from an older version:** copy the new `rePatch` folder over the old
+one and let it replace the files.
 
 **Saves:** back up your save data first. Starting a new game is recommended.
 Saves from the Japanese version haven't been tested with the patch.
